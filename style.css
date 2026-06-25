@@ -133,3 +133,12 @@ nav{
 }
 
 }
+.badge{
+    display:inline-block;
+    background:#22c55e;
+    color:white;
+    padding:8px 15px;
+    border-radius:20px;
+    margin:15px 0;
+    font-weight:bold;
+}
