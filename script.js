@@ -12,7 +12,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 // Animate only these sections
 const sections = document.querySelectorAll(
-    "#about, #skills, #projects, #contact"
+    "#about, #education, #certifications, #skills, #projects, #contact"
 );
 
 function revealSections() {
